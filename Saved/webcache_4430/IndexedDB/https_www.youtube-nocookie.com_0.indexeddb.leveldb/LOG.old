@@ -1,0 +1,6 @@
+2023/09/01-21:20:36.840 f48 Creating DB Q:/Unreal Projects/IndikatorFest/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/09/01-21:20:36.845 f48 Reusing MANIFEST Q:/Unreal Projects/IndikatorFest/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/01-21:21:21.614 47c0 Level-0 table #5: started
+2023/09/01-21:21:21.616 47c0 Level-0 table #5: 1167 bytes OK
+2023/09/01-21:21:21.618 47c0 Delete type=0 #3
+2023/09/01-21:21:21.618 47c0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
