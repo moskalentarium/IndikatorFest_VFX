@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Q:/Unreal Projects/IndikatorFest/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"Q:/UE_5.1/Engine/Plugins/FX/Niagara/Content/DefaultAssets/M_Gnomon_Alpha.uasset",
+				"Q:/Unreal Projects/IndikatorFest/Content/WorkShopFiles/FX/Mats/MM_Surge.uasset",
+				"Q:/Unreal Projects/IndikatorFest/Content/WorkShopFiles/FX/Mats/MM_SimpleGlow.uasset",
+				"Q:/Unreal Projects/IndikatorFest/Content/WorkShopFiles/FX/Mats/MM_FlatColor.uasset",
+				"Q:/Unreal Projects/IndikatorFest/Content/WorkShopFiles/FX/Niagara/NS_Portal.uasset"
+			]
+		}
+	]
+}
