@@ -2,6 +2,7 @@
 - [Materials](#materials)
   - [MM_Surge](#mm_surge)
   - [MM_SimpleGlow](#mm_simpleglow)
+  - [MM_SolidColor](#mm_solidcolor)
 - [VFX](#vfx)
 ## Materials
 ### MM_Surge
@@ -99,5 +100,7 @@
 
 ![FlatColor](https://github.com/moskalentarium/IndikatorFest/assets/36862146/cf339e5b-b260-459f-8fc9-e2db40b2515d)
 
-
+[Back to top](#indikatorfest)
 ## VFX
+
+[Back to top](#indikatorfest)
