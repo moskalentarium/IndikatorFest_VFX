@@ -105,16 +105,18 @@
 ### MM_SimpleGlow
 
 <details>
-
+  
+<!--
 ![Glow_RadialExpon](https://github.com/moskalentarium/IndikatorFest/assets/36862146/95ab6ed0-2e67-42a4-95cc-22bbdecee7fd)
-
+-->
 ![Glow_Radial](https://github.com/moskalentarium/IndikatorFest/assets/36862146/df88e336-151c-40bc-874e-da61c9d7e680)
-
+<!--
 ![Glow_Emissive](https://github.com/moskalentarium/IndikatorFest/assets/36862146/19a0535d-5f8e-4240-9b27-68055d647369)
-
 ![Glow_Opacity](https://github.com/moskalentarium/IndikatorFest/assets/36862146/20f8a326-d9a8-4a7e-acb3-08bcedb9f059)
-
+-->
 ![Glow_Final](https://github.com/moskalentarium/IndikatorFest/assets/36862146/6f8e3e6e-d26d-41cc-be53-25e6b747dfa8)
+
+![Unity_SimpleGlow](https://github.com/moskalentarium/IndikatorFest/assets/36862146/f5e5d8d6-6b50-4f2d-a41f-728f17a376b4)
 
 </details>
 
