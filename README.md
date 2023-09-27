@@ -1,6 +1,6 @@
 # IndikatorFest
-- [Materials] (#materials)
-- [VFX] (#vfx)
+- [Materials](#materials)
+- [VFX](#vfx)
 ## Materials
 ### MM_Surge
 
