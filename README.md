@@ -12,7 +12,9 @@
 ![Unity_Surge](https://github.com/moskalentarium/IndikatorFest/assets/36862146/b67cc3f3-c70f-4b36-8926-9f5eddbea099)
 
 <details>
-  
+
+Translucent Unlit / Sprite Unlit Shader Graph
+
 ![Surge_Shader](https://github.com/moskalentarium/IndikatorFest/assets/36862146/3974a39c-5f47-415c-8af2-59f6880a789c)
 
 #### Output Color
@@ -25,6 +27,8 @@
 
 ![Surge_Color_Texture-Rerout](https://github.com/moskalentarium/IndikatorFest/assets/36862146/a48e8b65-a8e3-40e2-b1fb-e4674dd9cf2c)
 -->
+Curve Atlas Row Parameter: Мы хотим создать свой градиент из кривый внутри движка - мы создаем ColorCurve. Чтобы градиент/кривую конвертировать в текстуру - мы создаем CurveAtlas. Этот атлас может в себе хранить множество кривых, мы ограничимся одной. Теперь, чтобы атлас использовать в материале, мы используем нод Curve Atlas Row Parameter. Сначала добавляем атлас, потом кривую
+Sample Gradient
 ![Surge_Color_CurveAtlasRowParam](https://github.com/moskalentarium/IndikatorFest/assets/36862146/aad7af0b-b245-48e4-9451-ab1252fc89e3)
 <!--
 ![Surge_Color_Output-Rerout](https://github.com/moskalentarium/IndikatorFest/assets/36862146/ce4a5af7-94f2-4085-8133-c12dc5f5b626)
@@ -49,6 +53,8 @@
 
 ![Surge_Mask_U-and-V](https://github.com/moskalentarium/IndikatorFest/assets/36862146/a2b45686-6e42-4540-8ccc-beafd7f9bfb8)
 -->
+Component Mask / Split
+One Minus / Invert Colors
 ![Surge_Mask_Combine](https://github.com/moskalentarium/IndikatorFest/assets/36862146/dd3b210f-9e0e-46d3-91dc-03fa01e53984)
 
 ![Unity_UV-Mult](https://github.com/moskalentarium/IndikatorFest/assets/36862146/4839a0aa-88b3-4f52-ac8d-1aa99e074587)
@@ -69,6 +75,7 @@
 
 ![Surge_TextureMask_Saturate](https://github.com/moskalentarium/IndikatorFest/assets/36862146/e43fb1f7-5150-4012-a418-ee2a4da2c45a)
 -->
+Lerp vs SmoothStep: первый проводит линейную интерполяцию, второй - по кривой
 ![Surge_TextureMask_Border](https://github.com/moskalentarium/IndikatorFest/assets/36862146/145c3a19-e839-4d37-885f-d353d4fa4930)
 
 ![Unity_Texture-Mask](https://github.com/moskalentarium/IndikatorFest/assets/36862146/11a88716-553d-4b26-9428-f8d445d41329)
@@ -97,6 +104,7 @@
 
 ![Surge_Refr_Lerp](https://github.com/moskalentarium/IndikatorFest/assets/36862146/5c50c5b7-0e8c-4895-8f81-755ffe9b8867)
 -->
+Depth Fade: когда полупрозрачный объект пересекается с другим объектом - между ними появляется резкий переход. Depth Fade маска, которая смотрит вглубь объекта и позволяет смягчить швы или менять параметры в зависимости от грубины
 ![Surge_Refr_Refr](https://github.com/moskalentarium/IndikatorFest/assets/36862146/e2b1121d-0687-4a95-b930-3288763e91a2)
 
 
