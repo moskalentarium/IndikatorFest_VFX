@@ -7,6 +7,7 @@
   - [Start](#start)
   - [Vertical_lines](#vertical_lines)
   - [Fontain](#fontain)
+  - [Glow](#glow)
 ## Materials
 ### MM_Surge
 
@@ -208,3 +209,16 @@ Sptite render
 
 </details>
 
+### Glow
+
+<details>
+
+Настройки 1
+
+![ррукр](https://github.com/moskalentarium/IndikatorFest/assets/143734540/c7ae3f42-272d-47b3-b5c3-0218622f0ece)
+
+Настройки 2
+![2023-10-06 15_32_17-мcopy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/8821ce88-11ca-46a2-9455-49921f865fc6)
+
+
+</details>
