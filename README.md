@@ -6,6 +6,7 @@
 - [VFX](#vfx)
   - [Start](#start)
   - [Vertical_lines](#vertical_lines)
+  - [Fontain](#fontain)
 ## Materials
 ### MM_Surge
 
@@ -189,3 +190,21 @@ Sptite render
 ![2023-10-06 15_48_54-Window](https://github.com/moskalentarium/IndikatorFest/assets/143734540/c84b2407-1180-430c-903d-0f7349ddc5c9)
 
 </details>
+
+### Fontain
+Частички кружащиеся
+
+<details>
+
+Настройки 1
+![2023-10-06 15_32_17-Window copy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/eae44978-78e1-4da3-ad6c-8bfa141d3543)
+
+Настройки 2
+![2023-10-06 15_f32_17-Window copy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/e650c32b-3c55-44dd-a9d4-1302aa36b958)
+
+Sptite render
+
+![2023-10-06 16_38_00-Window](https://github.com/moskalentarium/IndikatorFest/assets/143734540/6c842ec3-65a0-4b7f-9a84-7060c0e77792)
+
+</details>
+
