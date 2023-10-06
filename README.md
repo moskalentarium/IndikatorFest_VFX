@@ -8,6 +8,7 @@
   - [Vertical_lines](#vertical_lines)
   - [Fontain](#fontain)
   - [Glow](#glow)
+  - [Spiral](#spiral)
 ## Materials
 ### MM_Surge
 
@@ -220,5 +221,20 @@ Sptite render
 Настройки 2
 ![2023-10-06 15_32_17-мcopy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/8821ce88-11ca-46a2-9455-49921f865fc6)
 
+
+</details>
+
+### Spiral
+Это у нас мэш-партикл
+
+![2023-10-06 17_31_51-Window](https://github.com/moskalentarium/IndikatorFest/assets/143734540/c6cc1164-16c2-4d13-b13a-92d695dac28a)
+
+<details>
+
+Настройки 1
+![2023-10-06 15_32_17-Window copyккр](https://github.com/moskalentarium/IndikatorFest/assets/143734540/b298f325-be1d-47a8-9fa1-60e1c70e092a)
+
+Настройки 2
+![2023-10-06 15_32_17-Wрерindow copy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/273aa7d7-3eab-4b11-892d-91e7b61316f1)
 
 </details>
