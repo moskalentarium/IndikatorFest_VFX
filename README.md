@@ -4,6 +4,8 @@
   - [MM_SimpleGlow](#mm_simpleglow)
   - [MM_SolidColor](#mm_solidcolor)
 - [VFX](#vfx)
+  - [Start](#start)
+  - [Vertical_lines](#vertical_lines)
 ## Materials
 ### MM_Surge
 
@@ -143,3 +145,47 @@ Refraction / IOR
 ## VFX
 
 [Back to top](#indikatorfest)
+
+### Start
+
+<details>
+  
+Интерфейс Niagara:
+- Слева сам эффект
+- В центре находится рабочая область со столбиками эмиттеров
+- Справа - детали и пункты выбранной ноды частиц
+- Внизу настройки воспроизведения
+
+Остальное пока не нужно и не важно)
+![2023-10-03 18_07_05-Window](https://github.com/moskalentarium/IndikatorFest/assets/143734540/4c4b3a01-6767-4156-ac93-368570add53f)
+
+Настройки системы (распространяются на все эмиттеры)
+
+![2023-10-06 15_27_10-NS_Super-Dupper](https://github.com/moskalentarium/IndikatorFest/assets/143734540/7ba817fb-aeca-42b5-92fa-1397662e40d8)
+
+</details>
+
+### Vertical_lines
+
+<details>
+  
+Стартанем с дефолтного эмиттера фонтана. К нему сделаем материал Solid Color. Посмотрим, как задается цвет в эмиттере
+![2023-10-06 15_20_36-](https://github.com/moskalentarium/IndikatorFest/assets/143734540/10dafc12-9083-45b1-99af-8598dbdf582d)
+
+Настройки 1
+
+![2023-10-06 15_32_17-Window copy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/a7963877-4463-47c4-bacc-ce7449471baa)
+
+Solid Color
+
+![2023-10-06 15_43_13-MM_FlatColor](https://github.com/moskalentarium/IndikatorFest/assets/143734540/6445b5fc-7488-4e73-9f63-054be9db42ba)
+
+Настройки 2
+
+![2023-10-06 15_44_37-Window copy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/6f0c263e-ed23-44f1-88f0-9e46b9a415c8)
+
+Sptite render
+
+![2023-10-06 15_48_54-Window](https://github.com/moskalentarium/IndikatorFest/assets/143734540/c84b2407-1180-430c-903d-0f7349ddc5c9)
+
+</details>
