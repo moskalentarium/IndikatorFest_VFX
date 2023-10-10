@@ -12,15 +12,14 @@
 ## Materials
 ### MM_Surge
 
-![Unreal_Surge](https://github.com/moskalentarium/IndikatorFest/assets/36862146/960af760-2965-4003-afec-965911d8fec5)
-
-![Unity_Surge](https://github.com/moskalentarium/IndikatorFest/assets/36862146/b67cc3f3-c70f-4b36-8926-9f5eddbea099)
+![Unreal_Surge](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/1b531638-a099-4fb5-9777-0c6dfc93dded)
+![Unity_Surge](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/10af29bd-ca60-49bd-a0e0-6ca1d3592250)
 
 <details>
 
 Translucent Unlit / Sprite Unlit Shader Graph
 
-![Surge_Shader](https://github.com/moskalentarium/IndikatorFest/assets/36862146/3974a39c-5f47-415c-8af2-59f6880a789c)
+![Surge_Shader](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/3f0b4bed-6a6d-4761-911e-675ad7eb021d)
 
 #### Output Color
 <!--
@@ -34,13 +33,11 @@ Translucent Unlit / Sprite Unlit Shader Graph
 -->
 Curve Atlas Row Parameter: Мы хотим создать свой градиент из кривый внутри движка - мы создаем ColorCurve. Чтобы градиент/кривую конвертировать в текстуру - мы создаем CurveAtlas. Этот атлас может в себе хранить множество кривых, мы ограничимся одной. Теперь, чтобы атлас использовать в материале, мы используем нод Curve Atlas Row Parameter. Сначала добавляем атлас, потом кривую
 Sample Gradient
-![Surge_Color_CurveAtlasRowParam](https://github.com/moskalentarium/IndikatorFest/assets/36862146/aad7af0b-b245-48e4-9451-ab1252fc89e3)
-<!--
+![Surge_Color_CurveAtlasRowParam](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/708a0872-01b0-41ce-ab40-c7101cb4ced7)<!--
 ![Surge_Color_Output-Rerout](https://github.com/moskalentarium/IndikatorFest/assets/36862146/ce4a5af7-94f2-4085-8133-c12dc5f5b626)
 -->
-![Surge_Color_frame](https://github.com/moskalentarium/IndikatorFest/assets/36862146/b8d625f3-6c77-489a-823a-3856baa8bfeb)
-
-![Unity_OutputColor](https://github.com/moskalentarium/IndikatorFest/assets/36862146/897fb9e0-e9f7-4487-92d6-6b8ce3f794d9)
+![Surge_Color_frame](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/b726cf59-fb2f-4006-96e3-3e3f309ebdfc)
+![Unity_OutputColor](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/4887bf0d-4869-4e12-9d4e-263a9c032a0b)
 
 #### UV Mask
 <!--
@@ -60,15 +57,15 @@ Sample Gradient
 -->
 Component Mask / Split
 One Minus / Invert Colors
-![Surge_Mask_Combine](https://github.com/moskalentarium/IndikatorFest/assets/36862146/dd3b210f-9e0e-46d3-91dc-03fa01e53984)
+![Surge_Mask_Combine](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/06ff597e-e967-4a20-ae46-bb5e9efcba9a)
 
-![Unity_UV-Mult](https://github.com/moskalentarium/IndikatorFest/assets/36862146/4839a0aa-88b3-4f52-ac8d-1aa99e074587)
+![Unity_UV-Mult](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/f884a04a-f5d5-461e-8bd0-bba1d0e3bda2)
 
 #### Texture Mask
 <!--
 ![Surge_TextureMask_UV](https://github.com/moskalentarium/IndikatorFest/assets/36862146/a10c9e2a-10d5-4d49-9653-72bf685361d2)
 -->
-![Surge_TextureMask_DynamicParam](https://github.com/moskalentarium/IndikatorFest/assets/36862146/0c66b029-3748-4e9d-a3e3-e369f9db3199)
+![Surge_TextureMask_DynamicParam](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/52c7cfe6-2445-4468-9017-5786c218c82b)
 <!--
 ![Surge_TextureMask_DynamCombRerout](https://github.com/moskalentarium/IndikatorFest/assets/36862146/aeeef4ca-a45d-4f76-979f-10a5cdecf675)
 
@@ -81,17 +78,18 @@ One Minus / Invert Colors
 ![Surge_TextureMask_Saturate](https://github.com/moskalentarium/IndikatorFest/assets/36862146/e43fb1f7-5150-4012-a418-ee2a4da2c45a)
 -->
 Lerp vs SmoothStep: первый проводит линейную интерполяцию, второй - по кривой
-![Surge_TextureMask_Border](https://github.com/moskalentarium/IndikatorFest/assets/36862146/145c3a19-e839-4d37-885f-d353d4fa4930)
+![Surge_TextureMask_Border](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/e2a745d2-9e61-4d66-ab0f-f59e60f45c2a)
 
-![Unity_Texture-Mask](https://github.com/moskalentarium/IndikatorFest/assets/36862146/11a88716-553d-4b26-9428-f8d445d41329)
+![Unity_Texture-Mask](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/523d5806-c4cc-45c4-8ddc-e14e77c37b48)
 
 #### Combining
 <!--
 ![Surge_Comb_Mult](https://github.com/moskalentarium/IndikatorFest/assets/36862146/9bf2a4aa-e527-4782-a88f-3fb4f09ae011)
 -->
-![Surge_Comb_16SatMult](https://github.com/moskalentarium/IndikatorFest/assets/36862146/2fda9784-86b9-484c-937d-43a2ba641366)
+![Surge_Comb_16SatMult](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/daa92b0f-c256-4504-84a3-f0a0dd2272a5)
 
-![Unity_Comb1](https://github.com/moskalentarium/IndikatorFest/assets/36862146/ac0b8a8c-6feb-495c-b1c7-86e0ac0087f1)
+![Unity_Comb1](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/b3127a5b-f36a-4dee-9d78-cb8949abf743)
+
 <!--
 ![Surge_Fresnel_Base](https://github.com/moskalentarium/IndikatorFest/assets/36862146/cfd16be3-a758-40da-b036-e54985302cb7)
 
@@ -99,9 +97,9 @@ Lerp vs SmoothStep: первый проводит линейную интерп�
 
 ![Surge_Fresnel_Power](https://github.com/moskalentarium/IndikatorFest/assets/36862146/3ed8899f-72df-495f-bfd3-92ad37b5c38d)
 -->
-![Surge_Comb_Fresnel](https://github.com/moskalentarium/IndikatorFest/assets/36862146/5442759c-26e1-4737-aa0c-fdcf51be3aca)
+![Surge_Comb_Fresnel](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/b9478383-d9be-40ab-b536-8bed234f9b74)
 
-![Unity_fresnel](https://github.com/moskalentarium/IndikatorFest/assets/36862146/76effad6-6888-4605-96b7-599bc3f17b09)
+![Unity_fresnel](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/b1003ffc-5109-4657-802c-62c81c658ee3)
 <!--
 ![Surge_Comb_Depth](https://github.com/moskalentarium/IndikatorFest/assets/36862146/1cfb5a7d-b0e1-43f1-82c7-316fe586a828)
 
@@ -113,8 +111,7 @@ Depth Fade: когда полупрозрачный объект пересек�
 
 Refraction / IOR
 
-![Surge_Refr_Refr](https://github.com/moskalentarium/IndikatorFest/assets/36862146/e2b1121d-0687-4a95-b930-3288763e91a2)
-
+![Surge_Refr_Refr](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/8b80aa78-31d9-4e6e-bb25-4a50062c39f9)
 
 </details>
 
@@ -125,14 +122,14 @@ Refraction / IOR
 <!--
 ![Glow_RadialExpon](https://github.com/moskalentarium/IndikatorFest/assets/36862146/95ab6ed0-2e67-42a4-95cc-22bbdecee7fd)
 -->
-![Glow_Radial](https://github.com/moskalentarium/IndikatorFest/assets/36862146/df88e336-151c-40bc-874e-da61c9d7e680)
+![RadialGradient](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/e4cc7c6d-7d1c-4bec-ae2a-1bed8742a900)
 <!--
 ![Glow_Emissive](https://github.com/moskalentarium/IndikatorFest/assets/36862146/19a0535d-5f8e-4240-9b27-68055d647369)
 ![Glow_Opacity](https://github.com/moskalentarium/IndikatorFest/assets/36862146/20f8a326-d9a8-4a7e-acb3-08bcedb9f059)
 -->
-![Glow_Final](https://github.com/moskalentarium/IndikatorFest/assets/36862146/6f8e3e6e-d26d-41cc-be53-25e6b747dfa8)
+![SimpleGlow](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/99bd428d-6afb-43f9-91cc-7264bc4ef20a)
 
-![Unity_SimpleGlow](https://github.com/moskalentarium/IndikatorFest/assets/36862146/f5e5d8d6-6b50-4f2d-a41f-728f17a376b4)
+![SimpleGlowUnity](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/8747cc5c-08f7-4479-ae2a-0cc79546a221)
 
 </details>
 
@@ -140,7 +137,7 @@ Refraction / IOR
 
 <details>
 
-![FlatColor](https://github.com/moskalentarium/IndikatorFest/assets/36862146/cf339e5b-b260-459f-8fc9-e2db40b2515d)
+![SolidColor](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/82427d5b-f787-449e-bb73-7c78449fbd94)
 
 </details>
 
@@ -160,11 +157,11 @@ Refraction / IOR
 - Внизу настройки воспроизведения
 
 Остальное пока не нужно и не важно)
-![2023-10-03 18_07_05-Window](https://github.com/moskalentarium/IndikatorFest/assets/143734540/4c4b3a01-6767-4156-ac93-368570add53f)
+![Niagara1](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/3a5e67b9-705c-47ee-adb1-8a511f9f0d65)
 
 Настройки системы (распространяются на все эмиттеры)
 
-![2023-10-06 15_27_10-NS_Super-Dupper](https://github.com/moskalentarium/IndikatorFest/assets/143734540/7ba817fb-aeca-42b5-92fa-1397662e40d8)
+![Niagara2](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/9ea61d6f-5f5b-414a-9e0d-377739603f05)
 
 </details>
 
@@ -173,23 +170,24 @@ Refraction / IOR
 <details>
   
 Стартанем с дефолтного эмиттера фонтана. К нему сделаем материал Solid Color. Посмотрим, как задается цвет в эмиттере
-![2023-10-06 15_20_36-](https://github.com/moskalentarium/IndikatorFest/assets/143734540/10dafc12-9083-45b1-99af-8598dbdf582d)
+
+![Niagara3](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/d24d93cc-92ba-4413-b7ab-f45472ecf9cf)
 
 Настройки 1
 
-![2023-10-06 15_32_17-Window copy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/a7963877-4463-47c4-bacc-ce7449471baa)
+![Niagara4](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/bf87aa11-b5ff-4893-92f8-3fd609cba098)
 
 Solid Color
 
-![2023-10-06 15_43_13-MM_FlatColor](https://github.com/moskalentarium/IndikatorFest/assets/143734540/6445b5fc-7488-4e73-9f63-054be9db42ba)
+![Niagara5](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/6cfc6ba3-3311-44bb-b2de-ac69b3094ab6)
 
 Настройки 2
 
-![2023-10-06 15_44_37-Window copy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/6f0c263e-ed23-44f1-88f0-9e46b9a415c8)
+![Niagara6](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/b5d70911-66f3-4ff8-aa2b-ffc056c6da41)
 
 Sptite render
 
-![2023-10-06 15_48_54-Window](https://github.com/moskalentarium/IndikatorFest/assets/143734540/c84b2407-1180-430c-903d-0f7349ddc5c9)
+![Niagara7](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/c4bf8dff-7143-4470-b83b-924874e7fee8)
 
 </details>
 
@@ -199,14 +197,14 @@ Sptite render
 <details>
 
 Настройки 1
-![2023-10-06 15_32_17-Window copy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/eae44978-78e1-4da3-ad6c-8bfa141d3543)
+![Niagara8](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/77342e73-1cfe-451d-abe7-6d15aefa1663)
 
 Настройки 2
-![2023-10-06 15_f32_17-Window copy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/e650c32b-3c55-44dd-a9d4-1302aa36b958)
+![Niagara9](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/eca920f0-2f17-40f3-9bcf-716669ce40d4)
 
 Sptite render
 
-![2023-10-06 16_38_00-Window](https://github.com/moskalentarium/IndikatorFest/assets/143734540/6c842ec3-65a0-4b7f-9a84-7060c0e77792)
+![Niagara10](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/a49c5ba2-b83b-4c54-9be2-ff4a8fadb793)
 
 </details>
 
@@ -216,25 +214,27 @@ Sptite render
 
 Настройки 1
 
-![ррукр](https://github.com/moskalentarium/IndikatorFest/assets/143734540/c7ae3f42-272d-47b3-b5c3-0218622f0ece)
+![Niagara11](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/d559d787-ce73-4da4-9258-9e3c3f569c17)
 
 Настройки 2
-![2023-10-06 15_32_17-мcopy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/8821ce88-11ca-46a2-9455-49921f865fc6)
 
+![Niagara12](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/eb136138-4bc3-455a-a837-e13062a2e949)
 
 </details>
 
 ### Spiral
 Это у нас мэш-партикл
 
-![2023-10-06 17_31_51-Window](https://github.com/moskalentarium/IndikatorFest/assets/143734540/c6cc1164-16c2-4d13-b13a-92d695dac28a)
+![Niagara13](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/fc25ba8c-ff32-47cd-9141-ffd9cf598422)
 
 <details>
 
 Настройки 1
-![2023-10-06 15_32_17-Window copyккр](https://github.com/moskalentarium/IndikatorFest/assets/143734540/b298f325-be1d-47a8-9fa1-60e1c70e092a)
+
+![Niagara14](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/25cceda3-da55-4b64-a2ea-bd235f425afa)
 
 Настройки 2
-![2023-10-06 15_32_17-Wрерindow copy](https://github.com/moskalentarium/IndikatorFest/assets/143734540/273aa7d7-3eab-4b11-892d-91e7b61316f1)
+
+![Niagara15](https://github.com/moskalentarium/IndikatorFest_VFX/assets/36862146/6802505f-ef91-4a4a-ab18-820cfb220755)
 
 </details>
